@@ -17,4 +17,4 @@
 
 ### Git Pages
 
-Ссылка на сайт на GitHub Pages - [Путешествие по России](https://xzio.github.io/russian-travel/).
+Ссылка на сайт на GitHub Pages - [Путешествие по России](https://xzio.github.io/russian-travel/)
