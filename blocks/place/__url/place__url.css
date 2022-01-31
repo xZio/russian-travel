@@ -1,0 +1,10 @@
+.place__url {
+  place-self: end start;
+}
+
+@media screen and (max-width: 720px) {
+  .place__url {
+    place-self: flex-start;
+    margin-left: 16px;
+  }
+}
