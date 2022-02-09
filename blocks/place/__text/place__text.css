@@ -1,6 +1,6 @@
 .place__text {
   font-size: 18px;
-  line-height: 163%;
+  line-height: 26px;
 }
 
 .place__text :not(:last-child) {

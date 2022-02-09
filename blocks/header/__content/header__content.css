@@ -17,3 +17,9 @@
     width: calc(100% - 2 * 16px);
   }
 }
+
+@media screen and (max-width: 340px) {
+  .header__content {
+    padding-top: 16px;
+  }
+}
